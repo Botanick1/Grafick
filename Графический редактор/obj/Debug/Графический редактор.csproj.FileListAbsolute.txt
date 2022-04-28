@@ -1,0 +1,12 @@
+C:\Users\Михаил\source\repos\Графический редактор\bin\Debug\Графический редактор.exe.config
+C:\Users\Михаил\source\repos\Графический редактор\bin\Debug\Графический редактор.exe
+C:\Users\Михаил\source\repos\Графический редактор\bin\Debug\Графический редактор.pdb
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический редактор.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический редактор.csproj.SuggestedBindingRedirects.cache
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический_редактор.Form1.resources
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический_редактор.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический редактор.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический редактор.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический редактор.exe
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический редактор.pdb
+C:\Users\Михаил\source\repos\Графический редактор\obj\Debug\Графический_редактор.Form2.resources
